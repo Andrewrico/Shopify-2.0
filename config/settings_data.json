@@ -105,37 +105,6 @@
           "add_image_padding": true,
           "show_vendor": true
         }
-      },
-      "image-banner": {
-        "type": "image-banner",
-        "settings": {
-          "desktop_text_box_position": "center",
-          "color_scheme": "background-1",
-          "stack_images_on_mobile": true,
-          "adapt_height_first_image": false
-        }
-      },
-      "featured-collection": {
-        "type": "featured-collection",
-        "settings": {
-          "title": "Featured collection",
-          "collection": "men",
-          "products_to_show": 12,
-          "show_view_all": true,
-          "swipe_on_mobile": true,
-          "image_ratio": "square",
-          "show_secondary_image": true,
-          "add_image_padding": true,
-          "show_vendor": true
-        }
-      },
-      "image-with-text": {
-        "type": "image-with-text",
-        "settings": {
-          "height": "adapt",
-          "color_scheme": "background-1",
-          "layout": "image_first"
-        }
       }
     },
     "content_for_index": [
