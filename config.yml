@@ -1,10 +1,10 @@
-
 storefront:
-  password: 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
-  theme_id: "124415246518"
-  store: storefront-2-0.myshopify.com
+  password: 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
+  theme_id: "124355772583"
+  store: storefront-twentyone.myshopify.com
 
 develop:
-  password: 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
-  theme_id: "124427534518"
-  store: storefront-2-0.myshopify.comgit in
+  password: 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
+  theme_id: "124334014631"
+  store: storefront-twentyone.myshopify.com
+
