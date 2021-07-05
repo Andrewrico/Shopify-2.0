@@ -1,1 +1,115 @@
-{}
+{
+  "current": {
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "announcement-bar-0": {
+            "type": "announcement",
+            "settings": {
+              "text": "Welcome to our store",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "announcement-bar-0"
+        ],
+        "settings": {
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "logo_width": 100,
+          "logo_position": "middle-left",
+          "menu": "main-menu",
+          "show_line_separator": true,
+          "enable_sticky_header": true
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
+          }
+        },
+        "block_order": [
+          "footer-0"
+        ],
+        "settings": {
+          "color_scheme": "background-1",
+          "newsletter_enable": true,
+          "newsletter_heading": "Sign up to our emails",
+          "show_social": false,
+          "enable_country_selector": true,
+          "enable_language_selector": true,
+          "payment_enable": true
+        }
+      },
+      "16254521714701de71": {
+        "type": "image-banner",
+        "blocks": {
+          "162545217139bb7acb-0": {
+            "type": "heading",
+            "settings": {
+              "heading": "Image banner"
+            }
+          },
+          "162545217139bb7acb-1": {
+            "type": "text",
+            "settings": {
+              "text": "Give customers details about the banner image(s) or content on the template."
+            }
+          },
+          "162545217139bb7acb-2": {
+            "type": "buttons",
+            "settings": {
+              "button_label_1": "Button label",
+              "button_link_1": "",
+              "button_style_secondary_1": false,
+              "button_label_2": "Button label",
+              "button_link_2": "",
+              "button_style_secondary_2": false
+            }
+          }
+        },
+        "block_order": [
+          "162545217139bb7acb-0",
+          "162545217139bb7acb-1",
+          "162545217139bb7acb-2"
+        ],
+        "settings": {
+          "desktop_text_box_position": "center",
+          "color_scheme": "background-1",
+          "stack_images_on_mobile": true,
+          "adapt_height_first_image": false
+        }
+      },
+      "162545259980383fa1": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "Featured collection",
+          "collection": "men",
+          "products_to_show": 12,
+          "show_view_all": true,
+          "swipe_on_mobile": true,
+          "image_ratio": "square",
+          "show_secondary_image": true,
+          "add_image_padding": true,
+          "show_vendor": true
+        }
+      }
+    },
+    "content_for_index": [
+      "16254521714701de71",
+      "162545259980383fa1"
+    ]
+  }
+}
